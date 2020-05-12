@@ -3,8 +3,6 @@ left_links:
     link: /blog/
   - name: About
     link: /about/
-  - name: Contact
-    link: /contact/
 right_links:
   - name:
     link: https://twitter.com/selfsuf06571662
@@ -13,6 +11,10 @@ right_links:
   - name:
     link: https://www.instagram.com/selfsufficientindia/
     social_icon: Instagram
+    new_window: true
+  - name:
+    link: mailto:selfsufficientindia@gmail.com
+    social_icon: Email
     new_window: true
   - name:
     link: /feed.xml
