@@ -6,6 +6,7 @@ categories:
   - friendship
 image: https://source.unsplash.com/collection/375719/2000x1322?a=.png
 author_staff_member: anna
+published: false
 ---
 Three significant factors make the formation of a friendship possible:
 
