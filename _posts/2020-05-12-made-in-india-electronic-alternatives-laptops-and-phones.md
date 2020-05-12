@@ -9,6 +9,7 @@ image: https://images.unsplash.com/photo-1507307135715-c45473a1c80e?ixlib=rb-1.2
 categories:
   - electronics
   - laptops
+author_username: tom
 show_ads: false
 ---
 Today we are going to share few of the Indian alternatives of electronic products that are producing laptops and other products with good quality.
