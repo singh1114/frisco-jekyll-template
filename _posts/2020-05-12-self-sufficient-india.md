@@ -11,21 +11,26 @@ categories:
   - self-sufficient
 author_staff_member: tom
 ---
-Today, 12th May at 08: 00 PM, our Prime Minister gave a speech regarding the idea of making India self-sufficient. This Place will help Indian Producers to reach out to the Indian Consumers in a well-defined way.
+Today, 12th May at 08: 00 PM, our Prime Minister gave a speech regarding the idea of making India self-sufficient.
+
+In the quest of building the self-sufficient Bharat, this is my contribution to next-generation India.
+
+This Place will help Indian Producers to reach out to the Indian Consumers in a well-defined way.
 
 ## How will it work?
 
----
+- - -
 
-We will try to reach out to an Indian Producer from different sector every day who is trying to sell their produce. We will share the details of the Consumers who want to buy the product with the producer, and they can find out the way in which they
-want to connect.
+We will try to reach out to an Indian Producer from different sector every day who is trying to sell their produce. We will share the details of the Consumers who want to buy the product with the producer, and they can find out the way in which they want to connect.
 
 ## How can you help?
 
----
+- - -
 
-Reach out to us using [Twitter](https://twitter.com/selfsuf06571662), Instagram or Email if you know someone who is a producer and share this with your friends.
+Reach out to us using [Twitter](https://twitter.com/selfsuf06571662), Instagram or Email if you know someone who is a producer and share this with your friends and ask them to join the cause.
 
-Together we will a few small circles which are self-sufficient in themselves.
+Together we will build a few small circles which are self-sufficient in themselves producing and consuming the goods in themselves.
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I21h9LFjLM8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
