@@ -23,6 +23,6 @@ want to connect.
 ## How can you help?
 ---
 
-Reach out to us using Twitter, Instagram or Email if you know someone who is a producer and share this with your friends.
+Reach out to us using [Twitter](https://twitter.com/selfsuf06571662), Instagram or Email if you know someone who is a producer and share this with your friends.
 
 Together we will a few small circles which are self sufficient in themselves.
