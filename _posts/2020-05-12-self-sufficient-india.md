@@ -4,7 +4,7 @@ date: 2020-05-12T00:00:00.000Z
 updated_date: 2020-05-12T18:32:14.113Z
 description: How becoming self sufficient is the best way to
 published: true
-image: https://images.unsplash.com/photo-1512802259497-db6d453f32bd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+image: https://images.unsplash.com/photo-1506461883276-594a12b11cf3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
 categories:
   - india
   - PM
