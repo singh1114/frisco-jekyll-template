@@ -9,6 +9,7 @@ image: https://images.unsplash.com/photo-1507307135715-c45473a1c80e?ixlib=rb-1.2
 categories:
   - electronics
   - laptops
+author_staff_member: tom
 author_username: tom
 show_ads: false
 ---
