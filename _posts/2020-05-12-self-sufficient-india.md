@@ -1,5 +1,5 @@
 ---
-title: Self sufficient India- A new Beginning
+title: Self sufficient India - A new Beginning
 date: 2020-05-12T00:00:00.000Z
 updated_date: 2020-05-12T18:32:14.113Z
 description: How becoming self sufficient is the best way to
